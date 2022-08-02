@@ -8,7 +8,7 @@
 
 <hr>
 
-<img align="left" src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659432095/763-7636892_icon-sticker-mountains-vaporwave-removebg-preview_zfaeih.png" height="180">
+<img align="left" src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659432095/763-7636892_icon-sticker-mountains-vaporwave-removebg-preview_zfaeih.png" height="220">
 <br/>
 
 ✔ LinkedIn: [linkedin.com/in/damian-ebeus/](https://www.linkedin.com/in/damian-ebeus/)

@@ -8,6 +8,15 @@
 
 <hr>
 
+<img align="left" src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659432095/763-7636892_icon-sticker-mountains-vaporwave-removebg-preview_zfaeih.png">
+
+✔ LinkedIn: [linkedin.com/in/damian-ebeus/](https://www.linkedin.com/in/damian-ebeus/)
+
+✔ Instagram: [instagram.com/damian_ebeus/](https://www.instagram.com/damian_ebeus/)
+
+✔ PortFolio: [portafolio-one-chi.vercel.app/](https://portafolio-one-chi.vercel.app/)
+
+✔ Whatsapp: [wa.me/543541297187](https://wa.me/543541297187)
 
 
 

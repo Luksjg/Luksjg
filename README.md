@@ -11,11 +11,11 @@
 <img align="left" src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659432095/763-7636892_icon-sticker-mountains-vaporwave-removebg-preview_zfaeih.png" height="220">
 <br/>
 
-✔ LinkedIn: [www.linkedin.com/in/lucas-j-gomez)
+✔ LinkedIn: [www.linkedin.com/in/lucas-j-gomez
 
-✔ PortFolio: [portafolio-one-chi.vercel.app/](https://portafolio-one-chi.vercel.app/](https://portafolio-umber-eta.vercel.app/cv)
+✔ PortFolio: https://portafolio-one-chi.vercel.app/
 
-✔ Whatsapp: [wa.me/541144405959(https://wa.me/541144405959)
+✔ Whatsapp: https://wa.me/541144405959
 
 <br/><br/><br/>
 

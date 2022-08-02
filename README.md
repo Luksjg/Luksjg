@@ -1,10 +1,16 @@
-<div align="left">
- <img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/miname_nk2iwv.png" width="70%" align="left">
+
+ <img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/miname_nk2iwv.png" width="70%" align="justify">
  <img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/midata_tj2aai.png" width="50%" align="left">
-</div>
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
+<h3 align="justify">In continuous training as a web developer, completely passionate about the Front-end and design.
+I love working in a team and I enjoy new challenges, I am very perfectionist and I don't usually settle easily, so I work very hard to achieve my goals.
+I always seek to leave my mark on projects, leaving part of my spirit in them.
+Do not hesitate to contact me
+I hope we can do great things together. </h3>
+
+<hr>
 
 
 

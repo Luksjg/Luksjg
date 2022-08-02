@@ -9,6 +9,7 @@
 <hr>
 
 <img align="left" src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659432095/763-7636892_icon-sticker-mountains-vaporwave-removebg-preview_zfaeih.png" height="180">
+<br/>
 
 ✔ LinkedIn: [linkedin.com/in/damian-ebeus/](https://www.linkedin.com/in/damian-ebeus/)
 
@@ -18,7 +19,7 @@
 
 ✔ Whatsapp: [wa.me/543541297187](https://wa.me/543541297187)
 
-
+<br/><br/><br/>
 
 
  <h2 align="center">Lenguajes y herramientas:</h2>

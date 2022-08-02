@@ -11,6 +11,7 @@
 <img align="left" src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659432095/763-7636892_icon-sticker-mountains-vaporwave-removebg-preview_zfaeih.png" height="220">
 <br/>
 <br/>
+
 ✔ LinkedIn: www.linkedin.com/in/lucas-j-gomez
 
 ✔ PortFolio: https://portafolio-one-chi.vercel.app/](https://portafolio-umber-eta.vercel.app/

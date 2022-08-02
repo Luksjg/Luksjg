@@ -5,12 +5,12 @@
 <br/><br/><br/>
 
 <h3 align="justify">I am a full stack JavaScript developer specialized in React and passionate about fronted and rest APIs, graduated from the SoyHenry bootcamp, currently looking for my first job in the IT world and with a lot of potential to show</h3>
-
+<br/><br/>
 <hr>
 
 <img align="left" src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659432095/763-7636892_icon-sticker-mountains-vaporwave-removebg-preview_zfaeih.png" height="220">
 <br/>
-
+<br/>
 ✔ LinkedIn: www.linkedin.com/in/lucas-j-gomez
 
 ✔ PortFolio: https://portafolio-one-chi.vercel.app/](https://portafolio-umber-eta.vercel.app/

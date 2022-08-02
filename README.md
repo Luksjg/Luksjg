@@ -1,7 +1,7 @@
-
- <img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/miname_nk2iwv.png" width="70%" align="justify">
- <img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/midata_tj2aai.png" width="50%" align="left">
-
+<p align="center">
+ <img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/miname_nk2iwv.png" width="70%">
+ <img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/midata_tj2aai.png" width="50%">
+</p>
 <br/><br/><br/>
 
 <h3 align="justify">I am a full stack JavaScript developer specialized in React and passionate about fronted and rest APIs, graduated from the SoyHenry bootcamp, currently looking for my first job in the IT world and with a lot of potential to show</h3>

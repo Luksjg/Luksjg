@@ -4,13 +4,11 @@
 
 <br/><br/><br/>
 
-<h3 align="justify">In continuous training as a web developer, completely passionate about the Front-end and design.
-I love working in a team and I enjoy new challenges, I am very perfectionist and I don't usually settle easily, so I work very hard to achieve my goals.
-I always seek to leave my mark on projects, leaving part of my spirit in them.
-Do not hesitate to contact me
-I hope we can do great things together. </h3>
+<h3 align="justify">I am a full stack JavaScript developer specialized in React and passionate about fronted and rest APIs, graduated from the SoyHenry bootcamp, currently looking for my first job in the IT world and with a lot of potential to show</h3>
 
 <hr>
+
+
 
 
 

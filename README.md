@@ -14,7 +14,7 @@
 
 ✔ LinkedIn: www.linkedin.com/in/lucas-j-gomez
 
-✔ PortFolio: https://portafolio-one-chi.vercel.app/](https://portafolio-umber-eta.vercel.app/
+✔ PortFolio: https://portafolio-umber-eta.vercel.app/
 
 ✔ Whatsapp: https://wa.me/541144405959
 

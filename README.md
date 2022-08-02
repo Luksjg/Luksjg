@@ -1,5 +1,5 @@
-<img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/miname_nk2iwv.png" align="center">
-<img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/midata_tj2aai.png" align="center">
+<img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/miname_nk2iwv.png" width="70%" align="right">
+<img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/midata_tj2aai.png" width="50%" align="right">
 <br/>
 
 

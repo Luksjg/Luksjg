@@ -17,6 +17,8 @@
 ✔ PortFolio: https://portafolio-umber-eta.vercel.app/
 
 ✔ Whatsapp: https://wa.me/541144405959
+ 
+✔ Gmail: lucasjg696@gmail.com
 
 <br/><br/><br/><br/><br/>
 

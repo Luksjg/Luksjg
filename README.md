@@ -1,8 +1,8 @@
 ### Hi there 👋
 
- <img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/miname_nk2iwv.png" width="100%" align="center">
+ <img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/miname_nk2iwv.png" width="80%" align="center">
 <!--  <br/> -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="80%" align="center">
+  <img src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659430343/midata_tj2aai.png" width="60%" align="center">
   <br/>
 
 

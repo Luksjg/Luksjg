@@ -11,13 +11,11 @@
 <img align="left" src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659432095/763-7636892_icon-sticker-mountains-vaporwave-removebg-preview_zfaeih.png" height="220">
 <br/>
 
-✔ LinkedIn: [linkedin.com/in/damian-ebeus/](https://www.linkedin.com/in/damian-ebeus/)
+✔ LinkedIn: [www.linkedin.com/in/lucas-j-gomez)
 
-✔ Instagram: [instagram.com/damian_ebeus/](https://www.instagram.com/damian_ebeus/)
+✔ PortFolio: [portafolio-one-chi.vercel.app/](https://portafolio-one-chi.vercel.app/](https://portafolio-umber-eta.vercel.app/cv)
 
-✔ PortFolio: [portafolio-one-chi.vercel.app/](https://portafolio-one-chi.vercel.app/)
-
-✔ Whatsapp: [wa.me/543541297187](https://wa.me/543541297187)
+✔ Whatsapp: [wa.me/541144405959(https://wa.me/541144405959)
 
 <br/><br/><br/>
 

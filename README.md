@@ -8,6 +8,14 @@
 <br/><br/>
 <hr>
 
+I Like
+
+:health_worker: Manga
+:health_worker: Electronic music
+:health_worker: Sports
+:health_worker: Coffe
+
+
 <img align="left" src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659432095/763-7636892_icon-sticker-mountains-vaporwave-removebg-preview_zfaeih.png" height="220">
 <br/>
 <br/>

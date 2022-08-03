@@ -9,7 +9,7 @@
 <hr>
 
 I Like
-<img align="right" src="https://i.giphy.com/media/uKadIjaivWCqY/giphy.gif" height="220">
+<img align="right" src="https://static.wixstatic.com/media/109492_caf9d05c136d4c4ca02050a79e942390.gif" height="220">
 
 :star2: Manga 
 

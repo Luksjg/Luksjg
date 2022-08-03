@@ -10,10 +10,19 @@
 
 I Like
 
-:star2: Manga <br/>
-:star: Electronic music <br/>
-:star2: Sports <br/>
-:star: Coffe <br/>
+:star2: Manga 
+
+:star: Electronic music 
+
+:star2: Sports 
+
+:star: Coffe 
+
+:star2: Indie games
+
+<img align="right" src="https://i.pinimg.com/originals/0a/d1/d7/0ad1d7cef24a77e15099915897edb089.gif" height="220">
+
+
 <br/>
 
 <hr>

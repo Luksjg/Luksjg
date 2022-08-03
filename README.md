@@ -9,6 +9,7 @@
 <hr>
 
 I Like
+<img align="right" src="https://i.pinimg.com/originals/0a/d1/d7/0ad1d7cef24a77e15099915897edb089.gif" height="220">
 
 :star2: Manga 
 
@@ -20,7 +21,7 @@ I Like
 
 :star2: Indie games
 
-<img align="right" src="https://i.pinimg.com/originals/0a/d1/d7/0ad1d7cef24a77e15099915897edb089.gif" height="220">
+
 
 
 <br/>

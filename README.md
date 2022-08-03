@@ -15,7 +15,7 @@ I Like
 :star2: Sports <br/>
 :star: Coffe <br/>
 
-<br/><br/>
+
 <hr>
 
 <img align="left" src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659432095/763-7636892_icon-sticker-mountains-vaporwave-removebg-preview_zfaeih.png" height="220">

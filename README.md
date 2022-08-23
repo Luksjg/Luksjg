@@ -4,7 +4,7 @@
 </p>
 <br/><br/><br/>
 
-<h3 align="justify">I am a full stack JavaScript developer specialized in React and passionate about fronted and rest APIs, graduated from the SoyHenry bootcamp, currently looking for my first job in the IT world and with a lot of potential to show</h3>
+<h3 align="justify">I introduce myself, I am a full stack JavaScript developer specialized in React and passionate about rest APIs and the front-end, graduated from the SoyHenry bootcamp with more than 800 hours between studies and projects, currently I dedicate a full time to improve my skills as a programmer</h3>
 <br/><br/>
 <hr>
 
@@ -15,7 +15,7 @@ I Like
 
 :star: Electronic music 
 
-:star2: Sports 
+:star2: APIs
 
 :star: Coffe 
 
